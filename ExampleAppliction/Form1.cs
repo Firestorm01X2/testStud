@@ -22,6 +22,6 @@ namespace ExampleAppliction
             double a = Convert.ToDouble(tbA.Text);
             double b = Convert.ToDouble(tbB.Text);
             long N = Convert.ToInt32(nudN.Value);
-        }
+        } //comm
     }
 }
